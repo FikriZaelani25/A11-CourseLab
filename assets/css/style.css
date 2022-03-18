@@ -420,7 +420,6 @@ section .wrapper-guru {
 }
 
 .guru-icon {
-  float: right;
   display: inline-block;
   position: relative;
 }
